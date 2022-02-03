@@ -1,6 +1,6 @@
-# kickstarter-analysis
+# Kickstarter-analysis
 
-## Overview of Project
+## Overview =
 
 ### The Tabular Data table is used to help highlight different results through creating PivotChart and PivotTables. The data was not given to us in a way that was easy to understand. Therefore, every cell was changed to make it easier to understand. If it was days, it was converted to dates, and amounts of money were also made easier to comprehend. After it was all made readable, they were put into graphs and tables that anyone would be able to comprehend.
 
